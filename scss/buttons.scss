@@ -1,0 +1,68 @@
+
+.btn.outline {
+    background: rgba(255, 255, 255, 0.1);
+    font-weight: 600;
+    padding: 8px 26px;
+    border-radius: 50px;
+    margin: 6px 10px;
+    -webkit-transition: all 0.7s ease;
+    -moz-transition: all 0.7s ease;
+    -o-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+}
+
+.btn.outline2 {
+    background: rgba(55, 123, 181, 1.0);
+    font-weight: 600;
+    padding: 8px 26px;
+    border-radius: 50px;
+    margin: 6px 10px;
+    -webkit-transition: all 0.7s ease;
+    -moz-transition: all 0.7s ease;
+    -o-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+}
+
+.btn-primary.outline {
+    border: 3px solid #fff;
+    color: #fff;
+}
+
+.btn-primary.outline2 {
+    border: 3px solid #fff;
+    color: #fff;
+}
+
+.btn-primary.outline2.active,
+.btn-primary.outline2:active,
+.btn-primary.outline2:focus,
+.btn-primary.outline2:hover,
+.open > .dropdown-toggle.btn-primary {
+    color: #fff;
+    border-color: #fff;
+    background: #007299;
+}
+
+.btn-primary.outline2.active,
+.btn-primary.outline2:active {
+    border-color: #007299;
+    color: #007299;
+    box-shadow: none;
+}
+
+.btn-primary.outline.active,
+.btn-primary.outline:active,
+.btn-primary.outline:focus,
+.btn-primary.outline:hover,
+.open > .dropdown-toggle.btn-primary {
+    color: #fff;
+    border-color: #fff;
+    background: rgba(55, 123, 181, 1.0);
+}
+
+.btn-primary.outline.active,
+.btn-primary.outline:active {
+    border-color: #007299;
+    color: #007299;
+    box-shadow: none;
+}

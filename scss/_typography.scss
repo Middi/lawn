@@ -1,0 +1,39 @@
+* {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a { color: $link; }
+
+a:hover {
+    color: $brand;
+    text-decoration: none;
+}
+
+.active { color: $brand; }
+
+h1 {
+    font-size: 4.3em;
+    font-weight: 600;
+    color: white;
+}
+
+h2 {
+    font-size: 3em;
+    color: white;
+    font-weight: 200;
+}
+
+h3 { color: rgba(58, 153, 216, 1.0); }
+
+p { font-size: 1.4em; }
+
+h4 {
+    font-size: 1.8em;
+    color: #555555;
+    font-weight: 200;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.text-muted { padding: 16px; }
