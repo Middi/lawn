@@ -20,20 +20,35 @@ h1 {
 }
 
 h2 {
-    font-size: 3em;
+    font-size: 2.5em;
     color: white;
-    font-weight: 200;
+    font-weight: 400;
+    font-family: 'Arvo', serif;
 }
 
 h3 { color: rgba(58, 153, 216, 1.0); }
 
-p { font-size: 1.4em; }
+p { font-size: 1.4em;
+font-family: 'Arvo', serif;}
 
 h4 {
-    font-size: 1.8em;
-    color: #555555;
-    font-weight: 200;
-    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    color: rgba(56, 58, 63, 1.0);
+    font-weight: 600;
+      font-family: 'Hind', sans-serif;
+}
+
+.lead {
+  font-weight: 600;
+  font-family: 'Arvo', serif;
 }
 
 .text-muted { padding: 16px; }
+
+
+span {
+font-family: 'Hind', sans-serif;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 70px;
+}

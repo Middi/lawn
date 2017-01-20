@@ -7,8 +7,18 @@
 		"uuidString": "F526C6A3-EF70-40F2-8B80-E07EE9B4F763"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25504",
 "files": {
+	"\/1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/css\/stylesheet.css": {
 		"aP": 1,
 		"bl": 0,
@@ -79,6 +89,12 @@
 		"oAP": "\/extras pages\/nologo-index.html",
 		"oF": 0
 		},
+	"\/extras pages\/success.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/extras pages\/success.html",
+		"oF": 0
+		},
 	"\/extras pages\/success.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -96,6 +112,66 @@
 		"oA": 2,
 		"oAP": "\/gitignore",
 		"oF": 0
+		},
+	"\/icons.sketch": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/icons.sketch",
+		"oF": 0
+		},
+	"\/images\/1.png": {
+		"ft": 32768,
+		"iS": 916,
+		"oA": 0,
+		"oAP": "\/images\/1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/2.png": {
+		"ft": 32768,
+		"iS": 1081,
+		"oA": 0,
+		"oAP": "\/images\/2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/3.png": {
+		"ft": 32768,
+		"iS": 1128,
+		"oA": 0,
+		"oAP": "\/images\/3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/3.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/images\/background_lawn_images.png": {
 		"ft": 32768,
@@ -139,6 +215,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/dots.png": {
+		"ft": 32768,
+		"iS": 240,
+		"oA": 0,
+		"oAP": "\/images\/dots.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/droplet-circle.png": {
 		"ft": 32768,
 		"iS": 2840,
@@ -170,6 +254,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/images\/Fill 403.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/float-call.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/float-call.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -655,6 +749,24 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/masthead.jpg": {
+		"ft": 16384,
+		"iS": 235398,
+		"oA": 0,
+		"oAP": "\/images\/masthead.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/Oval 1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/Oval 1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/images\/ozvzsjuxbku-claudel-rheault.jpg": {
 		"ft": 16384,
 		"iS": 0,
@@ -773,6 +885,14 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/images\/services-back.jpg": {
+		"ft": 16384,
+		"iS": 237177,
+		"oA": 0,
+		"oAP": "\/images\/services-back.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/small-header.jpg": {
 		"ft": 16384,
 		"iS": 418098,
@@ -819,13 +939,21 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/tick-small.png": {
+		"ft": 32768,
+		"iS": 432,
+		"oA": 0,
+		"oAP": "\/images\/tick-small.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/tick.png": {
 		"ft": 32768,
 		"iS": 454,
 		"oA": 0,
 		"oAP": "\/images\/tick.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/images\/tick.svg": {
 		"ft": 2097152,
@@ -885,11 +1013,33 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
 	"\/index.php": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.php",
 		"oF": 0
+		},
+	"\/lawn3.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/lawn3.zip",
+		"oF": 0
+		},
+	"\/Oval 1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/Oval 1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/scss\/_media-queries.scss": {
 		"aP": 0,
@@ -1267,7 +1417,7 @@
 	"bowerSaveDependencies": 1,
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
-	"browserRefreshDelay": 0,
+	"browserRefreshDelay": 1,
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -1658,6 +1808,10 @@
 			"optionString": ""
 			},
 		"no-array-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -2200,6 +2354,10 @@
 		"prefer-const": {
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-numeric-literals": {
 			"active": 0,

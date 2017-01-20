@@ -1,35 +1,69 @@
 
 .btn.outline {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(84, 157, 157, 1.0);
+  font-family: 'Hind', sans-serif;
+  font-size: 14px;
     font-weight: 600;
-    padding: 8px 26px;
+    padding: 18px 40px 15px 40px;
     border-radius: 50px;
-    margin: 6px 10px;
-    -webkit-transition: all 0.7s ease;
-    -moz-transition: all 0.7s ease;
-    -o-transition: all 0.7s ease;
-    transition: all 0.7s ease;
 }
 
 .btn.outline2 {
-    background: rgba(55, 123, 181, 1.0);
+    background: rgba(84, 157, 157, 1.0);
+    font-family: 'Hind', sans-serif;
+    color: white;
+    font-size: 18px;
     font-weight: 600;
-    padding: 8px 26px;
+    width: 296px;
+    padding: 24px 20px 18px 20px;
     border-radius: 50px;
-    margin: 6px 10px;
-    -webkit-transition: all 0.7s ease;
-    -moz-transition: all 0.7s ease;
-    -o-transition: all 0.7s ease;
-    transition: all 0.7s ease;
+    margin: 70px 10px 20px 10px;
+
 }
 
+
+
+.btn.outline-call {
+    background: #54d769;
+    font-family: 'Hind', sans-serif;
+    color: white;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    line-height: 44px;
+    border-radius: 50px;
+
+}
+
+.btn.outline3, .btn.outline4 {
+    background: rgba(84, 157, 157, 1.0);
+    font-family: 'Hind', sans-serif;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    width: 190px;
+    padding: 16px 20px 14px 20px;
+    border-radius: 50px;
+    margin: 40px 10px 20px 30px;
+
+}
+
+.btn.outline4 {
+  width: 100px;
+  padding: 10px 10px 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
 .btn-primary.outline {
-    border: 3px solid #fff;
+    border: none;
     color: #fff;
 }
 
 .btn-primary.outline2 {
-    border: 3px solid #fff;
+    border: none;
     color: #fff;
 }
 
@@ -38,16 +72,16 @@
 .btn-primary.outline2:focus,
 .btn-primary.outline2:hover,
 .open > .dropdown-toggle.btn-primary {
-    color: #fff;
-    border-color: #fff;
-    background: #007299;
+    // color: #fff;
+    // border-color: #fff;
+    // background: #007299;
 }
 
 .btn-primary.outline2.active,
 .btn-primary.outline2:active {
-    border-color: #007299;
-    color: #007299;
-    box-shadow: none;
+    // border-color: #007299;
+    // color: #007299;
+    // box-shadow: none;
 }
 
 .btn-primary.outline.active,
@@ -55,14 +89,14 @@
 .btn-primary.outline:focus,
 .btn-primary.outline:hover,
 .open > .dropdown-toggle.btn-primary {
-    color: #fff;
-    border-color: #fff;
-    background: rgba(55, 123, 181, 1.0);
+    // color: #fff;
+    // border-color: #fff;
+    // background: rgba(55, 123, 181, 1.0);
 }
 
 .btn-primary.outline.active,
 .btn-primary.outline:active {
-    border-color: #007299;
-    color: #007299;
-    box-shadow: none;
+    // border-color: #007299;
+    // color: #007299;
+    // box-shadow: none;
 }
